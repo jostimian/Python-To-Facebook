@@ -17,13 +17,13 @@ python main.py
 Enter Email: email@example.com
 Enter Password: yourpassword
 ```
-###MacOS
+### MacOS
 ```
 python3 main.py
 Enter Email: email@example.com
 Enter Password: yourpassword
 ```
-###Linux
+### Linux
 ```
 python3 main.py
 Enter Email: email@example.com
@@ -36,3 +36,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+[MIT](https://github.com/jostimian/Python-To-Facebook/blob/master/License/License.txt)
