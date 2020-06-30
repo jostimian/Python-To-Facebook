@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 
 email = input("Enter Your Email: ")
-password = input("Enter Your Password")
+password = input("Enter Your Password: ")
 
 def login():
     browser = webdriver.Chrome()
